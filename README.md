@@ -39,4 +39,4 @@ To get "Discute" running locally:
 - Stable internet connection for AI models
 - Working microphone for voice input
 
-## Happy learning!
+## 🎓 Happy learning!
